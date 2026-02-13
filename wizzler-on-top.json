@@ -1,0 +1,42 @@
+{
+    "token": "enter your token here",
+    "max_concurrent": 50,
+    "proxy": false,
+    "ban_reason": "Nuked by Wizzlers",
+    "nuke": {
+        "channel_names": [
+            "nuked-by-shakti",
+            "wizzed-by-shakti",
+            "fucked-by-shakti"
+        ],
+        "roles_name": [
+            "stfu shakti run you",
+            "shakti owns you",
+            "shakti fucked your ass"
+        ],
+        "messages_content": [
+            "# everyone @here shakti was here join  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+            "# @everyone @here shakti owns you wizzed you join https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+            "# @everyone @here destroyed by shakti join https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt  and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti"
+        ],
+        "webhooks": {
+            "name": "Wizzlers op",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1437376121564823596/1467053682561650803/wizz.png?ex=697efbb6&is=697daa36&hm=d661b57ebb664f3434002a7fa7421b51f66cae60ef647de8e65c02ffdacb429f",
+            "messages": [
+                "# @everyone @here shakti wizzed your ass wizzlers on top  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+                "# @everyone @here shakti owns you all wizzlers on top  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+                "# @everyone @here shakti fucked you all wizzlers on top  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti" 
+            ]
+        }
+    },
+    "operations": {
+        "nick_users_to": "Wizzed by shakti",
+        "dm_message": "# @everyone @here shakti wizzed your ass wizzlers on top  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+        "spam_message": "# @everyone @here shakti wizzed your ass wizzlers on top  https://discord.gg/wizzlers https://discord.gg/sBxZbf6AKt and subscribe https://youtube.com/@wizzlersop https://youtube.com/@hatedshakti",
+        "guild_name": "Wizzlers By Wizzlers",
+        "guild_icon": "https://cdn.discordapp.com/attachments/1437376121564823596/1467053682561650803/wizz.png?ex=697efbb6&is=697daa36&hm=d661b57ebb664f3434002a7fa7421b51f66cae60ef647de8e65c02ffdacb429f",
+        "enable_auto_admin": true,
+        "emoji_rename_to": "Wizzed by Shakti",
+        "ouath2" : "https://discord.com/oauth2/authorize?client_id=1432354481462579261&permissions=8&integration_type=0&scope=bot"
+    }
+}
